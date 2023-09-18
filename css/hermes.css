@@ -1,0 +1,1295 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOOaBXso.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIMeaBXso.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOuaBXso.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIO-aBXso.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofINeaB.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOOaBXso.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIMeaBXso.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOuaBXso.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIO-aBXso.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofINeaB.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOOaBXso.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIMeaBXso.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOuaBXso.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIO-aBXso.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofINeaB.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOOaBXso.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIMeaBXso.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOuaBXso.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIO-aBXso.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofINeaB.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOOaBXso.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIMeaBXso.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIOuaBXso.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofIO-aBXso.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li01BKofINeaB.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
+@import "animation.css";
+:root {
+  --green: #b34df5;
+  --peach: #FF4558;
+  --night: rgb(17, 16, 29);
+  --black: #192a56;
+  --dark: #410825;
+  --light-color: #666;
+  --box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+}
+* {
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  text-transform: capitalize;
+  transition: all 0.3s linear;
+}
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 5.5rem;
+  scroll-behavior: smooth;
+}
+h3 {
+  color: var(--black);
+  font-size: 2.2rem;
+}
+h4 {
+  color: var(--black);
+  font-size: 1.8rem;
+}
+p {
+  color: var(--light-color);
+  padding: 0 0;
+  line-height: 1.5;
+  font-size: 1.6rem;
+}
+section {
+  padding: 2rem 9%;
+}
+section:nth-child(odd) {
+  background: #fff;
+}
+header .register .login {
+  background: transparent;
+  display: inline-block;
+  font-size: 1.5rem;
+  color: var(--green);
+  border: 1px solid var(--green);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  padding: 0.6rem 3rem;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.sign-up {
+  display: inline-block;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #1b141f;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  padding: 0.6rem 2rem;
+}
+.btn {
+  display: inline-block;
+  font-size: 1.5rem;
+  color: #fff;
+  background: var(--green);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+.btn:hover {
+  background: var(--green);
+  letter-spacing: 0.1rem;
+}
+.sub-heading {
+  text-align: center;
+  color: var(--green);
+  font-size: 1.8rem;
+  padding-top: 1rem;
+}
+
+.heading {
+  text-align: center;
+  color: var(--black);
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+  text-transform: uppercase;
+}
+/* HeaderSection */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 1rem 7%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 1000;
+  box-shadow: var(--box-shadow);
+}
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-right: auto;
+}
+.logo-word {
+  color: var(--black);
+  font-size: 2.5rem;
+  font-weight: bolder;
+  margin-right: auto;
+  letter-spacing: 2px;
+}
+.logo-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+}
+.logo-icon img{
+  width: 100%;
+}
+header .navbar a {
+  font-size: 1.7rem;
+  border-radius: 0.5rem;
+  padding: 0.3rem 1.5rem;
+  color: var(--light-color);
+}
+header .navbar a.active {
+  color: #b34df5;
+  
+}
+header .navbar a:hover {
+  color: #b34df5;
+}
+.icons i,
+.icons a {
+  cursor: pointer;
+  margin-left: 0.5rem;
+  height: 4.2rem;
+  width: 4.2rem;
+  line-height: 4.5rem;
+  text-align: center;
+  color: var(--black);
+  font-size: 1.7rem;
+  border-radius: 50%;
+}
+header .icons i:hover,
+header .icons a:hover {
+  color: #470312;
+  background: var(--green);
+  transform: rotate(360deg);
+}
+header .icons #bars {
+  display: none;
+}
+/* End of Header Section */
+
+/* Home Section */
+.home .slide {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 9rem;
+  gap: 2rem;
+}
+.home .slide .content {
+  flex: 1 1 45rem;
+}
+.home .slide .image {
+  flex: 1 1 45rem;
+}
+.home .slide .image img {
+  width: 100%;
+  -webkit-animation: hero-img 2s linear 0s infinite alternate;
+}
+.home .slide .content span {
+  color: var(--green);
+  font-size: 2.5rem;
+}
+.home .slide .content h1 {
+  color: var(--black);
+  font-size: 6rem;
+}
+.home .slide .content p {
+  color: var(--light-color);
+  padding: 4rem 0;
+  line-height: 1.5;
+  font-size: 2.2rem;
+}
+/* End of Home Section */
+
+/* Process section */
+#process {
+  margin-top: 50px;
+}
+.process .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(28rem, 1fr));
+  gap: 1.5rem;
+}
+.process .box-container .box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-basis: 1;
+  align-items: center;
+  padding: 20px;
+}
+.process .box-container .box p {
+  text-align: center;
+  width: 70%;
+}
+.process .box-container .box i {
+  font-size: 3rem;
+  background: var(--green);
+  border-radius: 100%;
+  color: #fff;
+  padding: 3.5rem 3.5rem;
+  margin-bottom: 30px;
+}
+/* End of Process Section */
+
+/* About us section */
+#about {
+  background: var(--night);
+}
+#about .color {
+  color: white;
+}
+.about .about-img {
+  display: flex;
+  margin: 0 auto;
+  width: 70%;
+}
+.about .about-img img {
+  width: 100%;
+  -webkit-animation: img-animation 1s linear 0s infinite alternate;
+}
+.about .motto {
+  font-weight: 400;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #b34df5;
+}
+.about p {
+  padding: 30px 4%;
+  color: #fff;
+}
+/* End of About us section */
+
+/* Our plans section */
+.plans .box-container,
+.dashboard .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(23rem, 1fr));
+  gap: 1.5rem;
+}
+.plans .box-container .box,
+.dashboard .box-container .box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #eee;
+  box-shadow: var(--box-shadow);
+  border-radius: 12px;
+  text-align: center;
+  padding: 3rem;
+}
+.plans .box-container p,
+.dashboard .box-container p {
+  font-size: 14px;
+}
+.plans .box-container h3,
+.dashboard .box-container h3 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.plans .box-container h1,
+.dashboard .box-container h1 {
+  font-size: 2.5rem;
+}
+.plans .box-container .box .info,
+.dashboard .box-container .box .info {
+  color: #f56078;
+  font-size: 1.3rem;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+.plans .box-container .box span,
+.dashboard .box-container .box span {
+  font-size: 1.5rem;
+  color: var(--light-color);
+}
+.plans .box-container .box .start-mining,
+.dashboard .box-container .box .start-mining {
+  padding: 1.5rem 0;
+  margin: 20px 0 0 0;
+}
+.plans .box-container .box .p-b,
+.dashboard .box-container .box .p-b {
+  color: #81b53b;
+}
+/* End of our plan section */
+
+/* Hash Rate */
+
+.hash-rate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.earn {
+  text-align: center;
+}
+.earn h3 {
+  margin-bottom: 20px;
+}
+.earn p {
+  margin: 0 auto;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.cal-hash {
+  position: relative;
+  margin: 0 auto;
+  width: 70%;
+  background-color: #eee;
+  border-radius: 15px;
+  padding: 25px;
+  color: #000;
+  margin-bottom: 30px;
+  box-shadow: var(--box-shadow);
+}
+.cal-hash input {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #000;
+  margin-bottom: 30px;
+  font-size: 25px;
+  color: #000;
+  padding: 5px;
+  background: transparent;
+}
+.cal-hash select {
+  display: block;
+  width: 100%;
+  border: none;
+  height: 40px;
+  margin-bottom: 5px;
+  background: transparent;
+}
+.cal-hash .btn {
+  margin-bottom: 20px;
+}
+.cal-hash h3 {
+  color: #2563ea;
+  font-size: 18px;
+  font-weight: 400;
+}
+.cal-hash .earn-crypto {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.cal-hash .earn-dollar {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #2563ea;
+  margin-bottom: 10px;
+}
+.cal-hash .hash-info {
+  color: #555;
+  font-size: 20px;
+  font-weight: 400;
+}
+/* End of Hash Rate */
+
+/* Features Section */
+
+.features {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.feature-item {
+  margin: 15px auto;
+  display: flex;
+}
+.feature-item .fluid {
+  padding: 65px;
+}
+.feature-item:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+.feature-img {
+  display: flex;
+  width: 100%;
+}
+.feature-img img {
+  width: 100%;
+  -webkit-animation: feature-img-animation 5s linear 0s infinite;
+}
+.start-minning {
+  width: 90%;
+  background-color: var(--night);
+  border-radius: 15px;
+  padding: 20px 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /*background-image: url("/images/newsletter-box.png");*/
+  background-size: cover;
+  margin: 40px auto 80px;
+}
+.start-minning h3 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #fff;
+}
+.start-minning p {
+  margin: 0 10px 16px 0;
+  color: #fff;
+}
+.start-minning input {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #fff;
+  padding: 5px;
+  background-color: transparent;
+  margin-right: 20px;
+}
+.start-minning input::placeholder {
+  color: #fff;
+  opacity: 0.7;
+}
+.start-minning button {
+  font-size: 18px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+  color: #1b141f;
+  background-color: #fff;
+}
+/* End of Features Section */
+
+/* partners section */
+.partner-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+.partner-container .partner-img {
+  flex-basis: 33%;
+}
+.partner-container .partner-img img {
+  width: 100%;
+}
+/* End of partner section */
+
+/* review section */
+.review .review-slider {
+  overflow: hidden;
+}
+.review .slide {
+  position: relative;
+  padding: 2rem;
+  /* border: 0.1rem solid rgba(0, 0, 0, 0.2); */
+  border-radius: 0.5rem;
+  box-shadow: var(--box-shadow);
+}
+.review .slide .fa-quote-right {
+  position: absolute;
+  color: #ccc;
+  top: 2rem;
+  right: 2rem;
+  font-size: 6rem;
+}
+.review .slide .user {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  padding-bottom: 1.5rem;
+}
+.review .slide .user img {
+  height: 7rem;
+  width: 7rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.review .slide .user h3 {
+  color: var(--black);
+  font-size: 2rem;
+  padding-bottom: 0.5rem;
+}
+
+.review .slide .user i {
+  font-size: 1.3rem;
+  color: var(--green);
+}
+
+.review .slide p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: var(--light-color);
+}
+/* End of review section */
+
+/* footer section */
+#footer {
+  background-color: var(--night);
+}
+.footer .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 1.5rem;
+}
+#footer .logo {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-right: auto;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+}
+#footer .logo i {
+  color: #fff;
+}
+.footer .box-container .box h3 {
+  padding: 0.5rem 0;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.footer .box-container .box a {
+  display: block;
+  padding: 0.5rem 0;
+  font-size: 1.5rem;
+  color: var(--light-color);
+}
+
+.footer .box-container .box a:hover {
+  color: var(--green);
+  text-decoration: underline;
+}
+
+.footer .credit {
+  text-align: center;
+  border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+  font-size: 1.5rem;
+  color: var(--light-color);
+  padding: 0.5rem;
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
+}
+.footer .credit span {
+  color: var(--green);
+}
+/* End of Footer section */
+
+/* login form */
+.login .login-form {
+  width: 50%;
+  padding: 3rem;
+  margin: 9rem auto 3rem;
+  box-shadow: var(--box-shadow);
+  border-radius: 12px;
+}
+.login .login-form .inputBox input {
+  display: block;
+  border: 1px solid #eee;
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 1.5rem 2.5rem;
+  border-radius: 8px;
+  text-transform: none;
+  font-size: 2rem;
+}
+.login .login-form input:focus {
+  border-color: var(--green);
+}
+.login .login-form .inputBox input::placeholder {
+  color: #c0c0c0;
+}
+.login span {
+  color: var(--light-color);
+  font-size: 14px;
+  text-transform: none;
+}
+.login .btn {
+  width: 100%;
+  font-size: 2rem;
+}
+.login .chk-box {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.login .chk-box label {
+  font-size: 14px;
+  color: var(--light-color);
+}
+.login .login-form .f-p {
+  color: var(--light-color);
+  text-align: center;
+  margin: 40px auto 0;
+  text-decoration: none;
+  display: block;
+  font-size: 2rem;
+}
+.login .login-form p a,
+.login .login-form label a {
+  color: var(--green);
+}
+.login i {
+  margin-right: 6px;
+}
+.login .login-form h3,
+.login .login-form p {
+  margin-bottom: 15px;
+  text-align: center;
+}
+.login .login-form .btn div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.login .login-form .btn div p {
+  color: #fff;
+  margin-bottom: 0;
+}
+/* End of login form */
+
+/************* Dashboard Page *************/
+#dashboard-header{
+  display: none;
+}
+.dashboard {
+  display: grid;
+  width: 75%;
+  margin: 0 auto;
+  gap: 1.8rem;
+  grid-template-columns: 22rem auto;
+  margin-bottom: 1.8rem;
+}
+.dashboard aside .top {
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  padding-right: 2rem;
+}
+.dashboard h4 {
+  font-size: 2rem;
+  font-weight: 500;
+}
+/**** side bar ****/
+.dashboard aside {
+  height: 100vh;
+  background: white;
+}
+#close {
+  cursor: pointer;
+  height: 4.2rem;
+  width: 4.2rem;
+  line-height: 4.5rem;
+  text-align: center;
+  color: var(--black);
+  font-size: 1.7rem;
+  border-radius: 50%;
+}
+.dashboard aside .top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.8rem;
+}
+.dashboard aside .top #logo{
+  font-size: 2rem;
+}
+.dashboard aside .top .icons {
+  display: none;
+}
+.dashboard aside .navigation {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 3rem;
+  height: 80vh;
+  box-shadow: var(--box-shadow);
+}
+.dashboard aside .navigation a {
+  display: flex;
+  color: var(--black);
+  gap: 2rem;
+  align-items: center;
+  position: relative;
+  padding: 2.5rem 0;
+  font-size: 2rem;
+  margin-left: 2.5rem;
+}
+.dashboard aside .navigation a:last-child {
+  position: absolute;
+  bottom: 2rem;
+  width: 100%;
+}
+.dashboard aside .navigation a.active {
+  background: #eee;
+  color: var(--green);
+  margin-left: 0;
+}
+.dashboard aside .navigation a.active:before {
+  content: "";
+  width: 2%;
+  height: 100%;
+  background: var(--green);
+}
+.dashboard aside .navigation a.active i {
+  color: var(--green);
+}
+.dashboard aside .navigation a:hover {
+  color: var(--green);
+}
+.dashboard aside .navigation a:hover i {
+  margin-left: 1rem;
+}
+/**** side bar ****/
+
+/****main bar ****/
+.dashboard .user{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dashboard .main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard .main .user > h1 {
+  font-size: 2.5rem;
+  color: var(--black);
+  margin-top: 1.4rem;
+  margin-bottom: 3rem;
+}
+.dashboard .main > h1 {
+  font-size: 2.5rem;
+  color: var(--black);
+  margin-top: 1.4rem;
+  margin-bottom: 3rem;
+}
+.dashboard .main .highlight .wallet {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-shadow: var(--box-shadow);
+  padding: 2.5rem;
+  border-radius: 12px;
+  margin-bottom: 1.8rem;
+}
+.dashboard .main .highlight .wallet .top-up {
+  display: flex;
+  width: 100%;
+  gap: 1.8rem;
+}
+.dashboard .main .highlight .wallet .top-up a {
+  width: 90%;
+}
+.dashboard .main .highlight h3 {
+  margin-bottom: 20px;
+}
+.dashboard .main .highlight h1 {
+  color: var(--black);
+  font-size: 3rem;
+}
+.dashboard .main .highlight .info {
+  margin-top: 15px;
+  font-size: 14px;
+}
+.dashboard .main .highlight .mining {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-shadow: var(--box-shadow);
+  padding: 2.5rem;
+  border-radius: 12px;
+  margin-bottom: 1.8rem;
+}
+.dashboard .main .highlight .transaction .pending {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-shadow: var(--box-shadow);
+  padding: 2.5rem;
+  border-radius: 12px;
+  margin-bottom: 1.8rem;
+}
+.dashboard .main .highlight .transaction .pending .order {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dashboard .main .highlight .mining > i {
+  font-size: 6rem;
+  color: var(--black);
+  margin-bottom: 20px;
+}
+
+.dashboard .main .highlight .hash-plans {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #eee;
+  box-shadow: var(--box-shadow);
+  border-radius: 12px;
+  text-align: center;
+  padding: 3rem;
+}
+.dashboard .main .highlight .hash-plans img {
+  width: 50px;
+  margin: 0 auto;
+}
+.dashboard .main .deposit {
+  position: absolute;
+  margin: 0 0 0 10%;
+  width: 80%;
+  height: 60vh;
+  background: #eee;
+  top: 13rem;
+  border-radius: 12px;
+  box-shadow: var(--box-shadow);
+  display: none;
+}
+.address-container{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.055);
+  left: 0;
+  top: 0;
+}
+.address-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: var(--box-shadow);
+  text-align: center;
+}
+.address-box p {
+  color: var(--light-color);
+}
+.address-box a {
+  color: var(--light-color);
+  font-size: 1.5rem;
+  text-transform: lowercase;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+.address-box a:hover{
+  color: var(--green);
+}
+.address-box > img{
+  margin: 0 0 1rem;
+  width: 50px;
+  transform: rotate(-10deg);
+}
+.address-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 10px 0 10px;
+}
+.address-img img{
+  width: 250px;
+}
+
+/**** End of main ****/
+/************* End of Dashboard *************/
+
+/* media queries */
+@media (max-width: 991px) {
+  html {
+    font-size: 55%;
+  }
+  header {
+    padding: 1rem 2rem;
+  }
+  section {
+    padding: 2rem;
+  }
+  .dashboard {
+    grid-template-columns: 7rem auto;
+    margin-bottom: 1.8rem;
+    width: 80%;
+  }.dashboard aside .navigation a{
+    margin-left: 0;
+  }
+  .dashboard .side-navigation .navigation a h4 {
+    display: none;
+  }
+  #logo {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  
+  header .icons #bars {
+    display: inline-block;
+  }
+  header .register .sign-up {
+    display: none;
+  }
+  header .navbar {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+    border-bottom: 0.1rem solid rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  }
+  header .navbar.active {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+  header .navbar a {
+    display: block;
+    padding: 1.5rem;
+    margin: 1rem;
+    font-size: 2rem;
+    background: transparent;
+  }
+  .home .home-slider .slide .content h3 {
+    font-size: 5rem;
+  }
+  .feature-item {
+    margin: 15px auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .feature-item:nth-child(odd) {
+    flex-direction: column;
+  }
+  .start-minning {
+    flex-direction: column;
+  }
+  .cal-hash {
+    width: 90%;
+  }
+  .plans .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+    gap: 1.5rem;
+  }
+  .partner-container .partner-img {
+    flex-basis: 100%;
+  }
+  .login .login-form {
+    width: 90%;
+  }
+  #dashboard-header{
+    display: inline-flex;
+    justify-content: space-between ;
+    align-items: center ;
+  }
+  #dashboard-header .profile-pic{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  #dashboard-header .profile-pic img{
+    width: 100%;
+    border-radius: 50%;
+  }
+  .dashboard {
+    margin-top: 9rem;
+    grid-template-columns: auto;
+    width: 94%;
+  }
+  .dashboard .main {
+    width: 100%;
+  }
+  .dashboard .side-navigation {
+    position: fixed;
+    left: 0;
+    background: #fff;
+    width: 35rem;
+    z-index: 3;
+    height: 100vh;
+    padding-left: 2rem;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  }
+  .dashboard .side-navigation.active {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+  #logo {
+    display: inline;
+  }
+  .dashboard aside .top .icons{
+    display: inline;
+  }
+  .dashboard aside .navigation a:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  .dashboard .side-navigation .navigation a h4 {
+    display: inline;
+    margin-left: 2rem;
+  }
+  .dashboard aside .navigation {
+    box-shadow: none;
+  }
+}
+@media (max-width: 450px) {
+  html {
+    font-size: 50%;
+  }
+
+  .dishes .box-container .box img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+/********* Fade In*********/
+.reveal {
+  position: relative;
+  transform: translateY(70px) scale(0.9);
+  opacity: 0;
+  transition: 2s all ease;
+}
+.reveal.active {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+/********* End Fade In*********/
